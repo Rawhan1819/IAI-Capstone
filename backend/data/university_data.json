@@ -1,0 +1,143 @@
+{
+  "timetable": {
+    "SECTION-14": {
+      "MON": {
+        "8:15-9:05": "MSD-216",
+        "9:05-9:55": "MSD-216",
+        "9:55-10:10": "Break",
+        "10:10-11:00": "CD-308",
+        "11:00-11:50": "WT-313",
+        "11:50-12:40": "WT-313",
+        "12:40-1:40": "Break",
+        "1:40-2:30": "DMT-216",
+        "2:30-3:20": "IAI-216"
+      },
+      "TUE": {
+        "8:15-9:05": "IDP-216",
+        "9:05-9:55": "IDP-216",
+        "9:55-10:10": "Break",
+        "10:10-11:00": "CD-308",
+        "11:00-11:50": "AI-313",
+        "11:50-12:40": "AI-313",
+        "12:40-1:40": "Break",
+        "1:40-2:30": "IAI-216",
+        "2:30-3:20": "CN-216"
+      },
+      "WED": {
+        "8:15-9:05": "CN-216",
+        "9:05-9:55": "MSD-216",
+        "9:55-10:10": "Break",
+        "10:10-11:00": "CD-308",
+        "11:00-11:50": "CN-313",
+        "11:50-12:40": "CN-313",
+        "12:40-1:40": "Break",
+        "1:40-2:30": "MSD-216",
+        "2:30-3:20": "MSD-216"
+      },
+      "THUR": {
+        "8:15-9:05": "DMT-216",
+        "9:05-9:55": "ML-216",
+        "9:55-10:10": "Break",
+        "10:10-11:00": "ML-308",
+        "11:00-11:50": "ML-313",
+        "11:50-12:40": "CD-313",
+        "12:40-1:40": "Break",
+        "1:40-2:30": "DMT-216",
+        "2:30-3:20": "DMT-216"
+      },
+      "FRI": {
+        "8:15-9:05": "IAI-216",
+        "9:05-9:55": "ML-216",
+        "9:55-10:10": "Break",
+        "10:10-11:00": "SS-LAB-308",
+        "11:00-11:50": "SS-LAB-313",
+        "11:50-12:40": "CD-313",
+        "12:40-1:40": "Break",
+        "1:40-2:30": "MSD-216",
+        "2:30-3:20": "MSD-216"
+      },
+      "SAT": {
+        "8:15-9:05": "MSD-216",
+        "9:05-9:55": "MSD-216",
+        "9:55-10:10": "Break",
+        "10:10-11:00": "ML-308",
+        "11:00-11:50": "ML-313",
+        "11:50-12:40": "CN-313",
+        "12:40-1:40": "Break",
+        "1:40-2:30": "T5-216",
+        "2:30-3:20": "T5-216"
+      },
+      "faculty": {
+        "CD": "Mr. SIMHADRI CHINNA GOPI-9700330708",
+        "DMT": "Dr. M. RAJA RAO-8979803148",
+        "DMT-LAB": "Dr. M. RAJA RAO-8979803148",
+        "CN": "Ms.V. ANUSHA-9704754065",
+        "CN-LAB": "Ms.V. ANUSHA",
+        "ML": "Dr P. JHANSI LAKSHMI",
+        "MSD": "Mr. Mahesh",
+        "SS-LAB": "Dr.SHAH AI MAMUM SARKAR-8292371432",
+        "IAI": "Mrs. P. MOUNIKA-9959279176",
+        "WT": "Ms K. NIMNAGA SRI/Ms Y.SRAVANI",
+        "IDP": "Ms S. Anitha"
+      },
+      "syllabus": {
+        "CD": [
+          "Introduction to Compiler Design",
+          "Lexical Analysis",
+          "Syntax Analysis",
+          "Code Generation",
+          "Optimization Techniques"
+        ],
+        "DMT": [
+          "Digital Logic Design",
+          "Combinational Circuits",
+          "Sequential Circuits",
+          "Finite State Machines",
+          "Timing Analysis"
+        ],
+        "CN": [
+          "Computer Networks Fundamentals",
+          "OSI Model",
+          "TCP/IP Protocol",
+          "Routing & Switching",
+          "Network Security Basics"
+        ],
+        "ML": [
+          "Introduction to Machine Learning",
+          "Supervised Learning",
+          "Unsupervised Learning",
+          "Neural Networks",
+          "Model Evaluation"
+        ],
+        "MSD": [
+          "Microprocessor Architecture",
+          "Assembly Programming",
+          "Memory Management",
+          "Interrupts & I/O",
+          "Peripheral Programming"
+        ],
+        "IAI": [
+          "Artificial Intelligence Basics",
+          "Search Algorithms",
+          "Knowledge Representation",
+          "Reasoning Techniques",
+          "AI Applications"
+        ],
+        "WT": [
+          "Web Technologies Basics",
+          "HTML, CSS, JavaScript",
+          "Frontend Frameworks",
+          "Backend Development",
+          "Web Security"
+        ],
+        "IDP": [
+          "Industrial Design Principles",
+          "Product Life Cycle",
+          "CAD Tools",
+          "Prototyping",
+          "Project Management"
+        ]
+    }
+  }
+}
+}
